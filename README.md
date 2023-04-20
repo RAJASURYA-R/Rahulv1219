@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-hi welcome you all
+<h2 style={"text-align: center,}>hi welcome</h2>
