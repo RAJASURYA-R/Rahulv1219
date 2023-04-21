@@ -7,6 +7,9 @@
 
 ## I'm a Developer, and Student!
 
+<img align="right" width="350" src="/assests/programmer.gif" alt="Coding gif" />
+
+
 - 🌱 I’m currently learning everything 🤣 and eager to learn new Technologies
 - 👯 I’m looking to collaborate with other developers
 - 💬 Ask me about Webdevelopment, Computer networks , problem solving and basic problems occur in windows OS 
