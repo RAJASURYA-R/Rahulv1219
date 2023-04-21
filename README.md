@@ -43,7 +43,10 @@
 ###  Tools Used:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Android Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" />
+<img align="left" alt="Eclipse" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" />
+<img align="left" alt="Postman" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png"/>
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 
 
