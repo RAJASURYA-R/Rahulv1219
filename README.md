@@ -22,6 +22,7 @@
 [<img align="left" alt=" Outlook" width="22px" src="https://img.icons8.com/fluent/48/000000/microsoft-outlook-2019.png"/>](mailto:torahulv2002@gmail.com)
 
 <br>
+<br>
 
 ### Languages Known:
 
@@ -37,12 +38,22 @@
 
 
 <br>
+<br>
 
 ###  Tools Used:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" />
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+
+
+<br>
+<br>
+
+###  Programming Platforms used:
+[<img align="left"  width="22px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png"/>](https://leetcode.com/rahulv_01/)
+[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png"/>](https://www.hackerrank.com/crazy_user)
+[<img align="left"  width="22px" src="https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/037/100/original/CodeSignal_Symbol_RGB.png?1665521048"/>](https://app.codesignal.com/profile/rahul_psyco)
 
 
 
